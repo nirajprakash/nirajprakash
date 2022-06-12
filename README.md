@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Niraj Prakash, an Android, Angular, Flutter, Nodejs developer.
+
+
+![damingerdai's github stats](https://github-readme-stats.vercel.app/api?username=nirajprakash)
