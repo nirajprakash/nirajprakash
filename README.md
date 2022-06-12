@@ -28,6 +28,6 @@ Social Presence
 - [Instagram Junkielabs](https://www.instagram.com/junkie_labs/)
 
 ## I love using
-[Android](https://img.shields.io/badge/-android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![Android](https://img.shields.io/badge/-android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 
 ![damingerdai's github stats](https://github-readme-stats.vercel.app/api?username=nirajprakash)
