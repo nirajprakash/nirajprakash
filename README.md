@@ -17,5 +17,17 @@ Here are some ideas to get you started:
 
 I am Niraj Prakash, an Android, Angular, Flutter, Nodejs developer.
 
+List of platform you can look for my works: 
+
+- [Thedroid.io](https://thedroid.io/)
+- [Jukielabs](https://github.com/JunkieLabs)
+
+Social Presence
+
+- [Instagram thedroid_tech](https://www.instagram.com/thedroid_tech/)
+- [Instagram Junkielabs](https://www.instagram.com/junkie_labs/)
+
+## I love using
+
 
 ![damingerdai's github stats](https://github-readme-stats.vercel.app/api?username=nirajprakash)
