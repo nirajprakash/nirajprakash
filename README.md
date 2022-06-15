@@ -33,6 +33,14 @@ Social Presence Instagram
 ![flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+![firebase](https://img.shields.io/badge/-firebase-FFCA28?&style=for-the-badge&logo=firebase&logoColor=white)
+
+
+## :man_artist: Design Tools
+![figma](https://img.shields.io/badge/-figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white)
+![xd](https://img.shields.io/badge/-adobe-FF61F6?&style=for-the-badge&logo=adobexd&logoColor=white)
+![illustrator](https://img.shields.io/badge/-adobe-FF9A00?&style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
 
 
 <br>
