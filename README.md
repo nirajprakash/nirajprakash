@@ -37,7 +37,7 @@ Social Presence Instagram
 
 <br>
 
-![profile views](https://komarev.com/ghpvc/?username=RahulPrakash&color=blue)
+![profile views](https://komarev.com/ghpvc/?username=nirajprakash&color=blue)
 
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajprakash&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
