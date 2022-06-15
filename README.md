@@ -34,9 +34,14 @@ Social Presence Instagram
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
 
+
+<br>
+
+![profile views](https://komarev.com/ghpvc/?username=RahulPrakash&color=blue)
+
+
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajprakash&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br>
 
 ![nirajprakash's github stats](https://github-readme-stats.vercel.app/api?username=nirajprakash)
