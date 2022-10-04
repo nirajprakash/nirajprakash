@@ -27,7 +27,7 @@ Social Presence Instagram
 - [Thedroid.io](https://www.instagram.com/thedroid_tech/)
 - [Junkielabs](https://www.instagram.com/junkie_labs/)
 
-## I love using
+## Covered Development in:
 ![Android](https://img.shields.io/badge/-android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/-angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
 ![flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
