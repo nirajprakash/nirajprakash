@@ -41,6 +41,7 @@ Social Presence Instagram
 ![flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+![nestjs](https://img.shields.io/badge/-nestjs-E0234E?&style=for-the-badge&logo=nestjs&logoColor=white)
 ![firebase](https://img.shields.io/badge/-firebase-FFCA28?&style=for-the-badge&logo=firebase&logoColor=white)
 
 
