@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an Android, Angular, Flutter, Nodejs developer and a UI/UX designer. I love to create a product from scratch. For my open source contribution, please visit [Junkielabs](https://github.com/JunkieLabs)  
+I am an App Developer having experience in Android, Angular, Flutter, Nodejs and UI/UX design. I love to create a product from scratch. 
+For my open source contribution, please visit [Junkielabs](https://github.com/JunkieLabs)  
 
 My Portfolio website: [Portfolio](https://nirajprakash.github.io/)
 
