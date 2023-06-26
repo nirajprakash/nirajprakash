@@ -60,6 +60,5 @@ Social Presence Instagram
 
 
 
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajprakash&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![nirajprakash's github stats](https://github-readme-stats.vercel.app/api?username=nirajprakash)
