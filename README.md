@@ -81,6 +81,8 @@ Social Presence Instagram
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajprakash&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
+1. 🚀 Pushed 34 commits to [nirajprakash/nirajprakash](https://github.com/nirajprakash/nirajprakash)
+<!--END_SECTION:activity-->
 1. 🚀 Pushed 33 commits to [nirajprakash/nirajprakash](https://github.com/nirajprakash/nirajprakash)
 
 
