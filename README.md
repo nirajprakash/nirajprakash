@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<h1 align='center'> Hi there 👋</h1>
 
 <!--
 **nirajprakash/nirajprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +16,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an App Developer having experience in Android, Angular, Flutter, Nodejs and UI/UX design. I love to create a product from scratch. 
+<p align='center'>I am an App Developer having experience in Android, Angular, Flutter, Nodejs and UI/UX design. I love to create a product from scratch.</p>
+
+
+<p align='center'>
+<a href="mailto:nirajprakash13@gmail.com">
+  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/nirajprakash1/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://medium.com/@nirajprakash13">
+  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.figma.com/@nirajprakash">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
+
+<hr>
+
 For my open source contribution, please visit [Junkielabs](https://github.com/JunkieLabs)  
 
 My Portfolio website: [Portfolio](https://nirajprakash.github.io/)
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-nirajprakash1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nirajprakash1/)](https://www.linkedin.com/in/nirajprakash1/)
-[![Gmail Badge](https://img.shields.io/badge/-nirajprakash13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nirajprakash13@gmail.com)](mailto:nirajprakash13@gmail.com) 
 
 
 
@@ -55,10 +75,8 @@ Social Presence Instagram
 
 <br>
 
-![profile views](https://komarev.com/ghpvc/?username=nirajprakash&color=blue)
 
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nirajprakash)](https://git.io/streak-stats)
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajprakash&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
