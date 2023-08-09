@@ -81,6 +81,8 @@ Social Presence Instagram
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajprakash&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/JunkieLabs/demo-repository/pull/2) in [JunkieLabs/demo-repository](https://github.com/JunkieLabs/demo-repository)
+2. 💪 Opened PR [#2](https://github.com/JunkieLabs/demo-repository/pull/2) in [JunkieLabs/demo-repository](https://github.com/JunkieLabs/demo-repository)
 <!--END_SECTION:activity-->
 
 
